@@ -10,7 +10,7 @@ body {
 
 header {
   height: 15vh;
-  background: #444;
+  background: rgb(173, 40, 40);
   color: #ddd;
   display: flex;
   justify-content: center;
